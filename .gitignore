@@ -1,0 +1,7 @@
+# So a titulo de exemplo
+
+##exemplos de arquivos que não precisa ir para o repositorio remoto e agt deixa no git ignore para ficar locamente
+
+###node_modules
+###chave_api
+###.env
